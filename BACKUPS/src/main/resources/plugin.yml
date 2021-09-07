@@ -1,0 +1,8 @@
+name: BackupPlugin
+version: ${project.version}
+main: pl.pieszku.backup.Main
+api-version: 1.16
+authors: [ Pieszku ]
+
+commands:
+  backup:
